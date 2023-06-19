@@ -8,3 +8,5 @@ This repository contains the MATLAB codes for the following two publications:
 3. J. Wang, P. Samarasinghe, T. Abhayapala and J. A. Zhang, "Time-domain wideband ISM for spherical microphone arrays," submitted to MMSP 2023, arXiv preprint 	arXiv:2306.09135 [eess.AS] . 
 
 The MATLAB version is R2022a . 
+
+Programs within MMSP Sim folder utilises the SMIR Generator from https://www.audiolabs-erlangen.de/fau/professor/habets/software/smir-generator . 
