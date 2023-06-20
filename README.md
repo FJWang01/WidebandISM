@@ -9,4 +9,4 @@ This repository contains the MATLAB codes for the following two publications:
 
 The MATLAB version is R2022a . 
 
-Programs within the "MMSP Sim" folder utilises the SMIR Generator from https://www.audiolabs-erlangen.de/fau/professor/habets/software/smir-generator . 
+Some programmes within the "MMSP Sim" folder utilise the SMIR Generator from https://www.audiolabs-erlangen.de/fau/professor/habets/software/smir-generator . 
