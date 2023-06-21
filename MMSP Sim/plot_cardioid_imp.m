@@ -6,7 +6,7 @@ clc
 %% Load data
 load('test_cardioid_imp.mat');
 
-%% Plot impulse responses at mic No.14
+%% Plot impulse responses at mic No.17
 mic_idx = 17;
 
 h_mics_single = h_mics(mic_idx, :);
