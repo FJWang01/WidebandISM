@@ -1,3 +1,3 @@
-This folder contains the simulation files to simulate the signals captured by an open spherical microphone array in a shoebox room.
+This folder contains the simulation files to simulate the impulse response captured by an open spherical microphone array (SMA).
 
-The source has frequency invariant directivity pattern, which was also the case in the SMIR generator. 
+The open SMA and the source are in a shoebox room. The source has frequency invariant directivity pattern, which was also the case in the SMIR generator from https://www.audiolabs-erlangen.de/fau/professor/habets/software/smir-generator .  
