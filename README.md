@@ -16,7 +16,7 @@ D. P. Jarrett, E. A. P. Habets, M. R. P. Thomas and P. A. Naylor, "Rigid sphere 
 
 Programmes within the "MMSP Sim/Generalised Pattern" utilise the loudspeaker directional impulse responses (DIRs) of Genelec 8020. The DIRs are extracted from the DirPat dataset. 
 
-Details of the DirPat dataset can be accessed from https://opendata.iem.at/projects/dirpat . Measurement details are in the following publication
+Details of the DirPat dataset can be accessed from https://opendata.iem.at/projects/dirpat . Measurement details are in the following publication:
 
 M. Brandner, M. Frank, and D. Rudrich, “DirPat—Database and viewer of 2D/3D directivity patterns of sound sources and receivers,” Journal of the Audio Engineering Society, 2018.
 https://www.aes.org/e-lib/browse.cfm?elib=19538
