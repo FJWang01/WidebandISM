@@ -19,6 +19,6 @@ Programmes within the "MMSP Sim/Generalised Pattern" utilise the loudspeaker dir
 Details of the DirPat dataset can be accessed from https://opendata.iem.at/projects/dirpat . Measurement details are in the following publication:
 
 M. Brandner, M. Frank, and D. Rudrich, “DirPat—Database and viewer of 2D/3D directivity patterns of sound sources and receivers,” Journal of the Audio Engineering Society, 2018.
-https://www.aes.org/e-lib/browse.cfm?elib=19538
+Link to paper https://www.aes.org/e-lib/browse.cfm?elib=19538 .
 
 DirPat dataset can be downloaded from https://phaidra.kug.ac.at/detail/o:68229#?q=DirPat&page=1&pagesize=10 .
