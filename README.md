@@ -1,5 +1,5 @@
 # WidebandISM
-This repository contains the MATLAB codes for the following three publications:
+This repository contains the MATLAB programmes for the following three publications:
 
 1. J. Wang, T. Abhayapala, P. Samarasinghe, and J. A. Zhang , "Spherical harmonic representation of the observed directional wave front in the time domain", JASA Express Letters 2, 114801 (2022) https://doi.org/10.1121/10.0015044 . 
 
