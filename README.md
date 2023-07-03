@@ -15,7 +15,7 @@ Programmes within the "MMSP Sim/Frequency Invariant Pattern" folder utilise the 
 D. P. Jarrett, E. A. P. Habets, M. R. P. Thomas and P. A. Naylor, "Rigid sphere room impulse response simulation: algorithm and applications," Journal of the Acoustical Society of America, Volume 132, Issue 3, pp. 1462-1472, 2012.
 
 ## Note 2
-Programmes within the "MMSP Sim/Generalised Pattern" utilise the loudspeaker directional impulse responses (DIRs) of Genelec 8020. The DIRs are extracted from the DirPat dataset. 
+Programmes within the "MMSP Sim/Generalised Pattern" utilise the loudspeaker directional impulse responses (DIRs) of Genelec 8020. The DIRs are stored in the "MMSP Sim/Rearranged DIR from DirPat folder. The DIRs are extracted from the DirPat dataset. 
 
 Details of the DirPat dataset can be accessed from https://opendata.iem.at/projects/dirpat . Measurement details are in the following publication:
 
