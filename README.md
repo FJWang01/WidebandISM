@@ -16,3 +16,7 @@ Some programmes within the "MMSP Sim" folder utilise the SMIR Generator from htt
 D. P. Jarrett, E. A. P. Habets, M. R. P. Thomas and P. A. Naylor, "Rigid sphere room impulse response simulation: algorithm and applications," Journal of the Acoustical Society of America, Volume 132, Issue 3, pp. 1462-1472, 2012.
 
 Programmes within the "MMSP Sim/Generalised Pattern" utilise the loudspeaker directional impulse responses (DIRs) of Genelec 8020. The DIRs are extracted from the DirPat dataset. 
+
+Details of the DirPat dataset can be accessed from https://opendata.iem.at/projects/dirpat .
+
+DirPat dataset can be downloaded from https://phaidra.kug.ac.at/detail/o:68229#?q=DirPat&page=1&pagesize=10 .
