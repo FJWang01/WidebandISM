@@ -9,4 +9,6 @@ This repository contains the MATLAB codes for the following two publications:
 
 The MATLAB version is R2022a . 
 
-Some programmes within the "MMSP Sim" folder utilise the SMIR Generator from https://www.audiolabs-erlangen.de/fau/professor/habets/software/smir-generator . 
+Some programmes within the "MMSP Sim" folder utilise the SMIR Generator from https://www.audiolabs-erlangen.de/fau/professor/habets/software/smir-generator . Details of the SMIR generator can be found here
+
+D. P. Jarrett, E. A. P. Habets, M. R. P. Thomas and P. A. Naylor, "Rigid sphere room impulse response simulation: algorithm and applications," Journal of the Acoustical Society of America, Volume 132, Issue 3, pp. 1462-1472, 2012.
