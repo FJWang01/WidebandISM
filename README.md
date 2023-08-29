@@ -5,7 +5,7 @@ This repository contains the MATLAB programmes for the following three publicati
 
 2. J. Wang, P. Samarasinghe, T. Abhayapala and J. A. Zhang, "Image Source Method Based on the Directional Impulse Responses," ICASSP 2023 - 2023 IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP), Rhodes Island, Greece, 2023, pp. 1-5, doi: 10.1109/ICASSP49357.2023.10095916.
 
-3. J. Wang, P. Samarasinghe, T. Abhayapala and J. A. Zhang, "Time-domain wideband ISM for spherical microphone arrays," submitted to MMSP 2023, arXiv preprint 	arXiv:2306.09135 [eess.AS] . 
+3. J. Wang, P. Samarasinghe, T. Abhayapala and J. A. Zhang, "Time-domain wideband ISM for spherical microphone arrays," accepted for publication at MMSP 2023, arXiv preprint 	arXiv:2306.09135 [eess.AS] . 
 
 The MATLAB version is R2022a . 
 
