@@ -163,11 +163,4 @@ for mic_idx = 1:numel(elev_mics)
     grid on;
 end
 
-figure;
-imagesc(f_vec, 1:32, mag2db(abs(H_mics_TDW_SMIR)) - H_mics_TDW_SMIR_max);
-ylabel('Microphone index');
-xlabel('Frequency (Hz)');
-xlim([100, 4e3]);
-caxis([-40, 0]);
-cB = colorbar;
-cB.Label.String = 'Magnitude (dB)';
+
